@@ -1,0 +1,17 @@
+.fli-c-layout {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 16px;
+    justify-content: space-between;
+}
+
+.fli-c-layout div {
+    display: flex;
+    flex-direction: row;
+}
+
+.fli-c-layout-fab {
+    position: absolute;
+    right: 16px;
+}
